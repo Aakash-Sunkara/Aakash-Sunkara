@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakash-Sunkara
-- 👀 I’m interested in R, SQL and Python. Reach out for collab on topics related to data analytics
+- 👀 I’m proficient in Excel with decent knowledge in SQL, R and Python. Reach out for collab on topics related to data analytics
 - Linkedin - linkedin.com/in/aakash-sunkara-362781168/
 - Gmail - aakashvishnu99@gmail.com
 
